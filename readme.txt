@@ -6,4 +6,6 @@ creating a new branch is quick and simple.
 use --no-ff git merge.
 deal with a bug.
 my hello world.
+develop programming in dev branch!
+
 
