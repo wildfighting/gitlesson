@@ -5,4 +5,5 @@ Git tracks changes of files.
 creating a new branch is quick and simple.
 use --no-ff git merge.
 deal with a bug.
+develop programming in dev branch!
 
